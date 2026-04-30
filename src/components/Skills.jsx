@@ -2,15 +2,21 @@ import React from "react";
 
 const skillsData = [
   { name: "HTML5", percentage: 85 },
-  { name: "CSS, Tailwind, Bootstrap", percentage: 70 },
-  { name: "JavaScript", percentage: 85 },
-  { name: "ReactJS", percentage: 75 },
-  { name: "Python", percentage: 70 },
-  { name: "MySQL", percentage: 70 },
-  { name: "Git & GitHub", percentage: 70 },
-  { name: "Manual Testing", percentage: 70 },
-  { name: "Agile Methodologies", percentage: 65 },
-  { name: "Active Directory", percentage: 85 },
+  { name: "CSS3", percentage: 75 },
+  { name: "Tailwind CSS", percentage: 75 },
+  { name: "Bootstrap", percentage: 70 },
+  { name: "JavaScript (ES6+)", percentage: 85 },
+  { name: "React.js", percentage: 85 },
+  { name: "Redux Toolkit", percentage: 75 },
+  { name: "Python", percentage: 75 },
+  { name: "Django", percentage: 85 },
+  { name: "Django REST Framework", percentage: 85 },
+  { name: "REST APIs", percentage: 80 },
+  { name: "JWT Authentication", percentage: 85 },
+  { name: "MySQL / SQLite", percentage: 70 },
+  { name: "Git & GitHub", percentage: 85 },
+  { name: "Postman / API Testing", percentage: 85 },
+  { name: "Agile (Scrum Basics)", percentage: 75 }
 ];
 
 function Skills() {

@@ -16,23 +16,21 @@ function About() {
 
           <div className="column right">
             <div className="text">
-              Hello👋, I'm a passionate frontend developer
+              Hello👋, I'm a passionate full stack developer
             </div>
 
-            <p>
-              I am an enthusiastic fresher frontend developer with a strong foundation in React, JavaScript, 
-              and modern web technologies. I'm committed to creating beautiful, responsive, and user-friendly 
-              web applications.
-            </p>
+          <p>
+          I am an enthusiastic full stack developer with hands-on experience in building scalable web applications using React on the frontend and Django REST Framework on the backend. I have a strong foundation in JavaScript, Python, and API development, and I enjoy designing responsive, user-friendly interfaces while implementing robust backend logic. I am passionate about solving real-world problems and continuously improving my skills across both frontend and backend technologies.
+        </p>
 
             <ul style={{ marginTop: "10px" }}>
               <li>🔹 Passionate about solving complex problems.</li>
-              <li>🔹 Constantly improving frontend skills.</li>
+              <li>🔹 Constantly improving full stack skills.</li>
               <li>🔹 Quick learner with a keen interest in new technologies.</li>
             </ul>
 
             <a
-              href="VarshaG.P_Resume.pdf"
+              href="Varsha_G.P_FullStack_Developer(1).pdf"
               target="_blank"
               rel="noreferrer"
               className="about-buttons-style"

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from "react";
 
 export default function Home() {
-  const words = useMemo(() => ["Frontend Developer", "React Enthusiast", "Tech Learner"], []);
+  const words = useMemo(() => ["full stack Developer", " Django & React Enthusiast", "Tech Learner"], []);
   const [text, setText] = useState("");
   const [index, setIndex] = useState(0);
   const [subIndex, setSubIndex] = useState(0);

@@ -33,14 +33,14 @@ const Portfolio = () => {
 
     // Initialize Typed.js
     const typed1 = new Typed(typedRef1.current, {
-      strings: ["Software Engineer", "Frontend Web Developer"],
+      strings: ["Software Engineer", "full stack Web Developer"],
       typeSpeed: 100,
       backSpeed: 50,
       loop: true,
     });
 
     const typed2 = new Typed(typedRef2.current, {
-      strings: ["I am a fresher", "Frontend Web Developer", "Bengaluru"],
+      strings: ["I am a fresher", "full stack Web Developer", "Bengaluru"],
       typeSpeed: 100,
       backSpeed: 50,
       loop: true,
